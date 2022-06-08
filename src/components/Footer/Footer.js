@@ -22,17 +22,18 @@ const Footer = () => {
           <Slogan>Innovating one project at a time.</Slogan>
         </CompanyContainer>
         <SocialContainer>
-          <SocialIcons href="https://www.github.com">
+          <SocialIcons onClick={() => window.open("https://github.com/MwauratheAlex","_blank")}>
             <AiFillGithub size="3rem"/>
           </SocialIcons>
-          <SocialIcons href="https://www.linkedin.com">
+          <SocialIcons onClick={() => window.open("https://www.linkedin.com/in/mwaura-mbugua/","_blank")}>
             <AiFillLinkedin size="3rem"/>
           </SocialIcons>
-          <SocialIcons href="https://www.instagram.com">
+          <SocialIcons onClick={() => window.open("https://www.instagram.com","_blank")}>
             <AiFillInstagram size="3rem"/>
           </SocialIcons>
         </SocialContainer>
       </SocialIconsContainer>
+      
     </FooterWrapper>
   );
 };

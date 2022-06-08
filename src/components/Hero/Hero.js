@@ -14,7 +14,7 @@ const Hero = () => (
       <SectionText>
         For all your developer and engineering needs.
       </SectionText>
-      <Button onClick={()=> window.location = 'https://google.com'}>Learn More</Button>
+      <Button onClick={()=> window.open('https://www.linkedin.com/in/mwaura-mbugua','_blank')}>Learn More</Button>
     </LeftSection>
   </Section>
 );
