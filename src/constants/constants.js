@@ -35,6 +35,15 @@ export const projects = [
     visit: 'https://movie-land-mwaura.netlify.app/',
     id: 2,
   },
+  {
+    title: 'GPT-3',
+    description: "A fully responsive GPT-3 website/landing page with modern UI/UX following a Figma design built with React.",
+      image: '/images/5.png',
+      tags: ['React', 'JavaScript', 'Figma'],
+    source: 'https://github.com/MwauratheAlex/gpt3.git',
+    visit: 'https://gpt-3-mwaura.netlify.app/',
+    id: 4,
+  },
 ];
 
 export const TimeLineData = [
