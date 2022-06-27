@@ -44,6 +44,15 @@ export const projects = [
     visit: 'https://gpt-3-mwaura.netlify.app/',
     id: 4,
   },
+  {
+    title: 'Just Gym It',
+    description: "A modern React 18 Fitness Exercises App with the functionality to choose exercise categories and specific muscle groups. Browse 1000+ exercises with practical examples.",
+      image: '/images/6.png',
+      tags: ['React', 'JavaScript', 'Api'],
+    source: 'https://github.com/MwauratheAlex/gym_exercises.git',
+    visit: 'https://justgymit.netlify.app/',
+    id: 4,
+  },
 ];
 
 export const TimeLineData = [
