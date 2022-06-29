@@ -1,3 +1,11 @@
-## Personal Portfolio
+## Mwaura's Personal Portfolio
 
-![Portfolio Website](https://i.ibb.co/WgPMpts/image.png)
+## Introduction
+
+This is the repository of the personal portfolio of Mwaura Mbugua.
+
+![Portfolio Website](https://raw.githubusercontent.com/MwauratheAlex/portfolio_website/master/public/images/portfolio.png)
+
+<a href="https://mwauraporfolio.netlify.app/" target="_blank">
+    Visit Site
+</a>
